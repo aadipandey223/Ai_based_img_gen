@@ -2,7 +2,6 @@
 
 A text-to-image generation system built with Stable Diffusion that lets you create stunning images from simple text descriptions. This project demonstrates practical implementation of generative AI for creative applications.
 
-![Sample Generation](sample_images/banner.png)
 
 ## About This Project
 
